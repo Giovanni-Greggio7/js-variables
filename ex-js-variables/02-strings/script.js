@@ -2,9 +2,9 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
-let name = "Giovanni";
+let Name = "Giovanni";
 
-console.log(name)
+console.log(Name)
 
 
 // 2. Tipi primitivi
