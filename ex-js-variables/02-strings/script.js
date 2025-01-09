@@ -14,7 +14,7 @@ console.log(Name)
 
 let number = 7;
 let text = "Buongiorno";
-let bool = 1;
+let bool = true;
 
 console.log(number, text, bool)
 
